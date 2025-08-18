@@ -5,7 +5,6 @@ A lightweight **React** documentation-style mini app featuring smooth animations
 ## Table of Contents
 
 - [Overview](#overview)  
-- [Live Demo](#live-demo) *(if you deploy it)*  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Screenshots](#screenshots) *(optional)*  
@@ -16,13 +15,6 @@ A lightweight **React** documentation-style mini app featuring smooth animations
 ## Overview
 
 This project demonstrates a quick React-based documentation mini app with elegant animations using Framer Motion. It was created as a practice task inspired by the YouTube guide "Quick React Practice Task | Docs Mini App | React | Framer Motion." :contentReference[oaicite:1]{index=1}
-
----
-
-## Live Demo
-
-*(Optional: If you’ve deployed the app, e.g., via Netlify or Vercel, include the link below)*  
-Demo: [Your Live Link Here](#)
 
 ---
 
