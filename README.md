@@ -9,11 +9,7 @@ A lightweight **React** documentation-style mini app featuring smooth animations
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
 - [Screenshots](#screenshots) *(optional)*  
-- [Getting Started](#getting-started)  
-- [Available Scripts](#available-scripts)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
-- [License](#license)
+- [Getting Started](#getting-started) 
 
 ---
 
