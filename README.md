@@ -14,7 +14,7 @@ A lightweight **React** documentation-style mini app featuring smooth animations
 
 ## Overview
 
-This project demonstrates a quick React-based documentation mini app with elegant animations using Framer Motion. It was created as a practice task inspired by the YouTube guide "Quick React Practice Task | Docs Mini App | React | Framer Motion." :contentReference[oaicite:1]{index=1}
+This project demonstrates a quick React-based documentation mini app with elegant animations using Framer Motion. It was created as a practice task inspired by the YouTube guide "Quick React Practice Task | Docs Mini App | React | Framer Motion." 
 
 ---
 
